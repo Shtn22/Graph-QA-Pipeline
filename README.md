@@ -63,10 +63,10 @@ python -m src.dataset.webqsp
 ```
 
 #### Stage 4: Train the Model
-(This command uses optimized parameters for a single GPU with ~16GB of VRAM)
+
 
 ```bash
-python train.py --dataset webqsp --batch_size 1 --grad_steps 4
+python train.py --dataset webqsp 
 ```
 
 ## Final Results
