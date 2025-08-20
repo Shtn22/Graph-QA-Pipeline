@@ -1,0 +1,908 @@
+node_id,node_attr
+0,kazakhstan
+1,kazakh language
+2,sarikoli language
+3,cyrillic script
+4,arabic alphabet
+5,egyptian arabic
+6,javanese language
+7,javanese
+8,punjabi language
+9,mera pind
+10,fula language
+11,"arabic, egyptian spoken"
+12,south africa
+13,hebrew language
+14,m.05n7jt
+15,pakistan
+16,sindhi language
+17,hassaniya arabic
+18,hassaniyya phonology
+19,distribution-jv
+20,human language
+21,asia
+22,united arab emirates
+23,hobah
+24,lemurian windows into any place or time
+25,egyptian language
+26,libyan arabic
+27,g.1256g8tvd
+28,arabic languages
+29,uyghur language
+30,uyghur
+31,arabic language
+32,central atlas tamazight
+33,atlas languages
+34,western sahara
+35,"i, the sun universe"
+36,hittites
+37,indo-european languages
+38,indo-iranian languages
+39,kyrgyz language
+40,kirghiz
+41,pashto language
+42,algerian arabic
+43,g.1256nvlvl
+44,"mari, syria"
+45,lemuria
+46,pashto alphabet
+47,swahili language
+48,swahili
+49,m.09btjyg
+50,qatar
+51,berber languages
+52,libya
+53,tashelhiyt language
+54,morocco
+55,uganda
+56,africa
+57,seraiki language
+58,algeria
+59,konkani language
+60,devanagari
+61,maranao language
+62,philippine languages
+63,tausug language
+64,tausug
+65,shughni language
+66,m.07nh4y1
+67,balochi language
+68,najdi arabic
+69,"arabic, najdi spoken"
+70,eritrea
+71,talysh language
+72,persian alphabet
+73,oman
+74,malayalam language
+75,madampi
+76,rifian language
+77,tarifit map
+78,m.07nfvlq
+79,opencyc
+80,phoenician alphabet
+81,armenia
+82,m.02q8xzv
+83,latin alphabet
+84,democratic republic of the congo
+85,bedawi arabic
+86,m.03wc2kk
+87,cameroon
+88,malay language
+89,aramaic language
+90,hebrew alphabet
+91,abjad
+92,samaritan alphabet
+93,m.07nhd8n
+94,brahui language
+95,urdu language
+96,urdu
+97,high atlas
+98,language
+99,cypriot maronite arabic
+100,afroasiatic languages
+101,m.0k2y0zt
+102,hausa language
+103,mozambique
+104,persian language
+105,liminal
+106,ennina
+107,g.125_m6dw9
+108,qashqa'i language
+109,egypt
+110,lebanon
+111,tatar language
+112,tatar
+113,iranian languages
+114,russia
+115,cham language
+116,hebrew
+117,modern standard arabic
+118,"arabic, standard genesis translation"
+119,m.09xs79l
+120,"arabic, sudanese spoken language"
+121,north mesopotamian arabic
+122,pinnacle house
+123,moroccan arabic
+124,m.05ymz8
+125,ethiopia
+126,kalami language
+127,nastaʿlīq script
+128,mazanderani language
+129,moderniranianlanguagesmap24
+130,tunisia
+131,g.125_mhcp_
+132,philippines
+133,torwali language
+134,dardic languages
+135,comoros
+136,burkina faso
+137,siculo-arabic
+138,malawi
+139,jordan
+140,central iran group
+141,chadic languages
+142,maeneo penye wasemaji wa kiswahili
+143,lebanese arabic
+144,tigre language
+145,nigeria
+146,seljuk empire
+147,mozarabic language
+148,salar language
+149,altaic languages
+150,m.032fj
+151,arabic group
+152,mitti
+153,mauritania
+154,g.1256n64r8
+155,'phags-pa script
+156,language writing system
+157,west africa
+158,sierra leone
+159,"arabic, mesopotamian spoken language"
+160,"arabic, mesopotamian spoken grammar"
+161,"arabic, hassaniyya"
+162,ethiopian semitic languages
+163,g.1258bkm53
+164,"arabic, south levantine spoken language"
+165,bengali alphabet
+166,proto-canaanite alphabet
+167,proto-canaanite alphabet reconstructed 23 glyphs
+168,dogri language
+169,the journey
+170,m.0yd4
+171,sat sri akal
+172,china
+173,definition
+174,guinea
+175,kuwait
+176,state of palestine
+177,benin
+178,writing system
+179,iran
+180,g.11bv1mdhhw
+181,m.03w9bc9
+182,hejazi arabic
+183,"arabic, algerian spoken"
+184,kutchi language
+185,kachchi
+186,iraq
+187,malaysia
+188,heaven on earth
+189,canada
+190,juba arabic
+191,indonesia
+192,indonesian language
+193,"fulfulde, adamawa language"
+194,g.1255jhl76
+195,m.012r5h55
+196,maguindanao language
+197,omani arabic
+198,"arabic, omani spoken"
+199,khuzestani arabic
+200,g.1256sc3jq
+201,tachelhit
+202,m.09v91r
+203,g.125b_v78s
+204,judeo-arabic languages
+205,israel
+206,киргизский алфавит
+207,brunei
+208,cyprus
+209,"arabic, chadian spoken language"
+210,"arabic, chadian spoken"
+211,fula dialects
+212,pamir languages
+213,kazakh
+214,ghasita canada vich
+215,bahrain
+216,"arabic, gulf spoken language"
+217,"arabic, gulf spoken"
+218,hausa orthography
+219,turkic languages
+220,semitic languages
+221,m.09w17_h
+222,uzbek language
+223,"arabic, tunisian spoken language"
+224,"arabic, tunisian spoken etc."
+225,syria
+226,linguistic map southwestern europe
+227,swahili orthography
+228,"uzbek, northern"
+229,"arabic, mesopotamian spoken glossed text"
+230,"panjabi, eastern"
+231,ivory coast
+232,saudi arabia
+233,dongxiang language
+234,"arabic, baharna spoken language"
+235,the sacred band of stepsons universe
+236,sindhi
+237,g.125c3yvty
+238,iso 15924 code
+239,gilaki language
+240,"tamazight, central atlas glossed text"
+241,frank-ruehl
+242,the hebrew language: its history and characteristics
+243,arwi
+244,tamil
+245,hindustani language
+246,pitman shorthand
+247,hausa
+248,romeoo
+249,indo-aryan languages
+250,"arabic, north levantine spoken language"
+251,tarifit
+252,main tu assi tussi
+253,europe
+254,m.04q5q9
+255,uralian group
+256,paleo-hebrew alphabet
+257,g.1256pxn6y
+258,right to left
+259,malayalam
+260,m.025rvvb
+261,g.1255m84fd
+262,maranao
+263,wakhi language
+264,wakhi glossed text
+265,mongolia
+266,ta'izzi-adeni arabic
+267,pulaar language
+268,niger–congo languages
+269,maranao phonology
+270,india
+271,turkey
+272,m.02d8vbl
+273,jerusalem studies in arabic and islam
+274,abbasid caliphate
+275,uzbekistan
+276,"arabic, najdi spoken table of contents"
+277,thirakkatha
+278,hadhrami arabic
+279,spain
+280,hassaniyya
+281,badhaai ho badhaai
+282,thalappavu
+283,"panjabi, eastern orthography"
+284,m.07nhd8x
+285,g.1259lvgtz
+286,zambia
+287,yes your honour
+288,a subway sign in tatar (top) and russian
+289,togo
+290,kurdish languages
+291,kumzari language
+292,gaza strip
+293,g.12552n18g
+294,hebrew language and jewish thought
+295,southern turkic group
+296,torwali
+297,pahlavi scripts
+298,tanzania
+299,parsi
+300,g.1257hvkdx
+301,m.044gb_
+302,ordu
+303,topic
+304,wazirwola dialect
+305,"panjabi, eastern genesis translation"
+306,"arabic, standard"
+307,sindhi detailed description
+308,djibouti
+309,senegal
+310,g.1258hl310
+311,"arabic, mesopotamian spoken table of contents"
+312,punjabi gurmukhi shahmukhi devanagari
+313,"arabic, shuwa"
+314,kashmiri language
+315,soviet union
+316,gurmukhī alphabet
+317,sindhi orthography
+318,green denotes official language status; orange denotes minority language
+319,a grammar of the hebrew language
+320,tu meri jindarhe
+321,old turkic language
+322,kzkzkz
+323,sa'idi arabic
+324,g.125g_pqz8
+325,swahili grammar
+326,g.125_p__cv
+327,m.0br7mh
+328,"arabic, sudanese creole"
+329,uyghur cyrillic alphabet
+330,hebrewbooks.org
+331,m.07ng296
+332,shina language
+333,mali
+334,/m/06729m2
+335,pamir group
+336,tarifit grammar
+337,filipino alphabet
+338,"arabic, omani spoken phonology"
+339,m.034fb7
+340,m.05gpzr
+341,shugni-yazgulami group
+342,urdu genesis translation
+343,m.05_5w5b
+344,mandatory palestine
+345,m.09dvktr
+346,austronesian languages
+347,ottoman turkish language
+348,m.02pdmx
+349,malayo-sumbawan languages
+350,m.01316pqx
+351,ottan thullal: garuda garva bhangam
+352,tausug phonology
+353,innathe chintha vishayam
+354,m.0w4bypl
+355,burundi
+356,tempus unbound
+357,m.0lldn
+358,dogri glossed text
+359,tifinagh
+360,filipino orthography
+361,"arabic, omani spoken glossed text"
+362,languages of syria
+363,malay
+364,shughni glossed text
+365,kohistani group
+366,"arabic, ta'izzi-adeni spoken"
+367,iso 15924 numeric
+368,"arabic, cypriot spoken"
+369,bangladesh
+370,thailand
+371,g.125h6qttm
+372,world hebrew union
+373,"arabic, sa`idi spoken"
+374,egyptian hieroglyphs
+375,"arabic, hadrami spoken"
+376,aasra pyar da
+377,ghana
+378,kyrgyzstan
+379,"panjabi, eastern glossed text"
+380,"uzbek, southern"
+381,afghanistan
+382,coptic alphabet
+383,m.064xwd2
+384,arwirip
+385,khowar alphabet
+386,a bilingual malayalam and english sign board
+387,nubi language
+388,nubi
+389,tigré
+390,the vowel phonemes of sindhi
+391,m.07nf1vt
+392,atlas group
+393,north syrian arabic
+394,m.03hk_
+395,tausug grammar
+396,g.125_qqq2g
+397,south yemen
+398,sudan
+399,aramaic alphabet
+400,yemeni arabic
+401,yemen
+402,"arabic, mesopotamian spoken"
+403,m.035t_9
+404,north ethiopian group
+405,nigerian arabic
+406,eber
+407,written chinese
+408,m.05ptp06
+409,afshar language
+410,m.0b1gd
+411,citadel of lemuria
+412,"arabic, algerian spoken glossed text"
+413,romance languages
+414,m.0290sw1
+415,christmas island
+416,g.125_r61bc
+417,m.0bddmn
+418,g.1255c0fsq
+419,"arabic, mesopotamian spoken etc."
+420,"tamazight, central atlas table of contents"
+421,old turkic alphabet
+422,sindhi phonology
+423,m.0g2kkr
+424,g.125_m606f
+425,m.0262dbt
+426,tausug glossed text
+427,m.02std
+428,g.1255777g0
+429,"arabic, egyptian spoken glossed text"
+430,kirghiz orthography
+431,m.02nbsjp
+432,niger
+433,"arabic, moroccan spoken"
+434,sacred language
+435,g.1256p9bzk
+436,g.1257jlzpb
+437,m.0czr_y
+438,hebrew languages
+439,"arabic, western egyptian bedawi spoken"
+440,g.1255br62r
+441,m.07ndk37
+442,"arabic, levantine bedawi spoken"
+443,sindhi glossed text
+444,maguindanao
+445,malayalam script
+446,g.1255jt_7z
+447,hebrew language and grammar
+448,m.03gtcz
+449,g.125bk0m8w
+450,canaanite group
+451,kuhmareyi language
+452,galaz - israeli radio
+453,chamic languages
+454,madagascar
+455,published
+456,m.09xss08
+457,g.125cwrw4x
+458,ideogram
+459,"arabic, moroccan spoken grammar"
+460,iranian languages new map8
+461,"arabic, baharna spoken"
+462,sogdian alphabet
+463,kazakh genesis translation
+464,"arabic, sudanese spoken orthography"
+465,a practical grammar of the hebrew language
+466,iberian romance languages
+467,"arabic, north mesopotamian spoken"
+468,moderniranianlanguagesmap
+469,gujarati alphabet
+470,panjabi group
+471,m.0k2gl92
+472,konkani genesis translation
+473,m.0xnh
+474,local malay group
+475,wanetsi
+476,papyrus ebers
+477,syriac alphabet
+478,a compendious lexicon of the hebrew language
+479,kenya
+480,m.02r228p
+481,daal-ch-kala doriya
+482,"arabic, najdi spoken etc."
+483,m.02vn6n4
+484,m.07xlf
+485,m.04rvh1
+486,gambia
+487,"arabic, sudanese spoken"
+488,kadamba alphabet
+489,m.03d9_f
+490,g.125_rc733
+491,aralo-caspian group
+492,g.1259jw652
+493,"arabic, tunisian spoken orthography"
+494,tajikistan
+495,g.12575y45j
+496,"arabic, libyan spoken"
+497,baghi soormey
+498,m.01y5q9
+499,g.125ftknqd
+500,script
+501,positive
+502,mongour group
+503,rwanda
+504,palestinian arabic
+505,m.04nttj
+506,afro-asiatic chadic west a.1 a group
+507,dogri orthography
+508,g.1257tb1w5
+509,salar
+510,g.12586gf94
+511,g.1255z_rpp
+512,iso 15924 alpha
+513,cambodia
+514,m.03phb
+515,"the phrase zaban-e urdu-e mualla (\""the language of the exalted camp\"") written in nasta'liq script."
+516,g.125_qpjs7
+517,abugida
+518,m.01wb_v
+519,malayalam group
+520,old uyghur alphabet
+521,veruthe oru bharya
+522,g.1255xffmh
+523,"an easy introduction to the knowledge of the hebrew language, without the points"
+524,swahili genesis translation
+525,"tamazight, central atlas"
+526,hausa genesis translation
+527,"arabic, tunisian spoken"
+528,marna sakht mana hai
+529,m.07ndlrt
+530,punjabispeakers
+531,wagah
+532,chad
+533,mapofpersianspeakers
+534,"a bedawi-speaking bedouin, 1913."
+535,tausug detailed description
+536,northwest semitic languages
+537,m.010x3505
+538,m.07nf5dx
+539,g.1257svx6h
+540,sanaani arabic
+541,ottoman empire
+542,dictionary and thesaurus of the hebrew language
+543,m.09xzz36
+544,"arabic, egyptian spoken table of contents"
+545,m.07ng9cl
+546,"arabic, standard orthography"
+547,g.125cr66r9
+548,tachelhit glossed text
+549,malayalam grammar
+550,language dialect
+551,m.03ng33
+552,heroes in hell fictional universe
+553,learn hebrew pod
+554,m.0fxt6j
+555,malayalam glossed text
+556,khojki
+557,g.125gmn3jz
+558,kurdistan
+559,g.1257_prf1
+560,"mitr, my friend"
+561,dongxiang
+562,m.0j1c7tr
+563,kalami
+564,m.02pmhdg
+565,g.1258xk6lm
+566,g.125cdbytq
+567,hebrew orthography
+568,kyrgyz alphabets
+569,kasgarlimahmut
+570,bilingual guide in kazan metro
+571,cypriot arabic
+572,"fulfulde, maasina language"
+573,m.02qnxqp
+574,"arabic, algerian spoken phonology"
+575,m.07nfq31
+576,syntax of the hebrew language of the old testament
+577,g.125_lzqkr
+578,uyghur orthography
+579,m.09wb7nv
+580,m.03wcg9h
+581,sidha chall canada nu
+582,g.1258c4sq6
+583,m.03k8jx
+584,m.04dx626
+585,maranao glossed text
+586,studies in the traditions of the hebrew language
+587,alue jossa dogria puhutaan
+588,hassaniyya glossed text
+589,cursive hieroglyphs
+590,tachelhit phonology
+591,hieratic
+592,"arabic, omani spoken grammar"
+593,m.09ycgbt
+594,m.02020k
+595,konkani
+596,chinese characters
+597,central african republic
+598,tarifit detailed description
+599,m.03__vz
+600,g.125bjknd3
+601,g.12564bdqb
+602,language writing type
+603,writing systems
+604,used from
+605,swahili phonology
+606,rif
+607,urdu alphabet
+608,saadaram
+609,bhoothakkannadi
+610,g.125689ch7
+611,the romance of the hebrew language
+612,kannada alphabet
+613,nabataean alphabet
+614,arabic based group
+615,punjabi gurmukhi shahmukhi
+616,the vowel phonemes of libyan arabic
+617,dravidian languages
+618,"arabic, eastern egyptian bedawi spoken"
+619,tajik language
+620,"arabic, moroccan spoken phonology"
+621,m.07ng4gr
+622,maranao grammar
+623,g.125d7tkmw
+624,silent waters
+625,kaithi
+626,m.03ng1r
+627,mandaic alphabet
+628,eastern turkic group
+629,m.0cv3tl
+630,seraiki
+631,g.125djpbq8
+632,butuan-tausug group
+633,ucha dar babe nanak da
+634,hebrew phonology
+635,yaariyan
+636,g.1256hz5ml
+637,tera mera ki rishta
+638,pilgrimage
+639,m.09xsn05
+640,guinea-bissau
+641,used until
+642,g.1258h3b9n
+643,thavalam
+644,m.0swm6
+645,nanak naam jahaz hai
+646,mandombe script
+647,arabic speaking world
+648,g.1254zz19f
+649,tatar genesis translation
+650,"arabic, hasanya"
+651,tausug table of contents
+652,"arabic, omani spoken table of contents"
+653,malayalam genesis translation
+654,sarikoli language in xinjiang
+655,"panjabi, eastern grammar"
+656,dogri
+657,aksarajawa-small2
+658,child writing systems
+659,sindhi alphabates
+660,m.03wcgm3
+661,javanese script
+662,wakhi detailed description
+663,rencong alphabet
+664,nastaliq-proportions
+665,konkani detailed description
+666,g.1256fnm7v
+667,meri vahuti da viyah
+668,g.1259f0k7x
+669,sindhi script
+670,malay alphabet
+671,g.1259sz1v4
+672,ukraine
+673,"arabic, hijazi spoken"
+674,arabic-based creole languages
+675,hashar
+676,western pahari group
+677,m.0jft0
+678,konkani glossed text
+679,the attitude of the first maskilim toward the hebrew language
+680,arabic script
+681,"tamazight, central atlas grammar"
+682,"arabic, egyptian spoken etc."
+683,areas where swahili speakers are found
+684,m.0cn7f
+685,"arabic, algerian spoken colors"
+686,demotic
+687,g.125_r_css
+688,wakhi
+689,image-arwi
+690,g.1256h5nzt
+691,m.099b0
+692,rabb ne banaiyan jodiean
+693,g.1255yhh3p
+694,swahili etc.
+695,m.063lwv7
+696,m.02w8_n
+697,swahili detailed description
+698,manichaean alphabet
+699,parent writing systems
+700,m.06l6w8
+701,m.0cr7bbz
+702,"panjabi, eastern detailed description"
+703,modi alphabet
+704,tachelhit detailed description
+705,m.03p04_
+706,m.02jxdk
+707,m.0jfsj
+708,m.0jzp
+709,family chhadeyan di
+710,uyghur genesis translation
+711,mozarabic
+712,tatar orthography
+713,m.09xlxgq
+714,saraiki study center
+715,hassaniyya detailed description
+716,g.1257f6_w8
+717,g.125dd3mk8
+718,proto-sinaitic script
+719,g.1258hkyx4
+720,"silver ingot of bar-rakib son of panammu, king of sam'al (modern zincirli)"
+721,m.09xh1x
+722,g.125_nl7bw
+723,maayajaalam
+724,árabe hassanía
+725,m.0gl9h
+726,tausug bibliography
+727,a history of the hebrew language
+728,malayalam orthography
+729,banyumasan dialect
+730,shughni
+731,m.099cfz
+732,m.01315p7j
+733,"fulfulde, nigerian language"
+734,m.0688r
+735,"fulfulde, bagirmi language"
+736,m.013151cz
+737,languages
+738,bandara
+739,palmyrene alphabet
+740,silwan-inscr
+741,the new wakhi alphabet
+742,sindhi genesis translation
+743,atlantic–congo languages
+744,g.155sv9pm
+745,bantoid languages
+746,mozarabic group
+747,nigeria locator map
+748,m.0khv
+749,urdu colors
+750,chhankata: kadh tiyan kasraan
+751,g.1255wtjx2
+752,grantha alphabet
+753,borneo–philippine languages
+754,hassaniyya orthography
+755,g.125_qb0m6
+756,konkani group
+757,g.1254z0sd_
+758,kurdish language map
+759,shina
+760,kazakh orthography
+761,первый вариант шугнанского алфавита (1931)
+762,g.125_l83qn
+763,m.071fn
+764,maranao-iranon group
+765,g.125_s497_
+766,cham alphabet
+767,m.036dbl
+768,g.125bl3z22
+769,m.051qrx
+770,mel karade rabba
+771,ge'ez script
+772,g.125734rb3
+773,"studies in hebrew language, intertextuality, and theology"
+774,kurdish language
+775,magindanao group
+776,m.011nk74d
+777,"tamazight, central atlas etc."
+778,dogri grammar
+779,hebrew language usage
+780,m.05v21k0
+781,g.1257lwnfl
+782,g.1255sgwd7
+783,m.03ng2s
+784,sangisari language
+785,tausug orthography
+786,g.12598s1v0
+787,m.03wcgls
+788,g.125bty809
+789,creole language
+790,khowar language
+791,m.03wcg7f
+792,ottoman turkish alphabet
+793,bhavam
+794,"arabic, najdi spoken glossed text"
+795,m.026595r
+796,kawi script
+797,magic lamp
+798,"tamazight, central atlas orthography"
+799,m.077s1y
+800,ba`alat
+801,g.1256y7rw4
+802,arabic speaking world2
+803,yining
+804,"the location of sarikoli speakers can be seen at the extreme right-hand edge of this map, in brown"
+805,shadow kill
+806,family 422
+807,ugaritic alphabet
+808,dil apna punjabi
+809,shina group
+810,m.0g1051
+811,m.04fv0c
+812,type of writing
+813,shahmukhi alphabet
+814,sindhi group
+815,"arabic, tunisian spoken grammar"
+816,phoenicianletters
+817,g.125dc4t7m
+818,south arabian alphabet
+819,g.1255ymw8t
+820,m.0dh5x6g
+821,m.05vz5b
+822,syriac sertâ book script
+823,the first letter in malayalam
+824,"arabic, algerian spoken detailed description"
+825,m.0v_9_tb
+826,g.1259gd6sc
+827,bedd
+828,g.12571z6pb
+829,g.1255v8x_j
+830,konkani vowels ipa chart
+831,m.01315k35
+832,g.1257q_qw7
+833,is biblical hebrew a language?
+834,m.01314f1n
+835,bantu languages
+836,m.04hg93
+837,malayalam detailed description
+838,lahnda group
+839,siculo arabic
+840,name language
+841,maranao orthography
+842,g.125gvbxd_
+843,javanese group
+844,m.01315070
+845,mongolic languages
+846,g.125601mll
+847,g.1259fcfx8
+848,dogri detailed description
+849,dogriareas01
+850,waris shah: ishq daa waaris
+851,g.12578hkmm
+852,kurukshetra
+853,m.01316d_1
+854,g.125cph8z6
+855,m.0bskhj
+856,m.033qj1
+857,malayalamspeakers
+858,m.09n8m_
+859,m.019yzk
+860,urdu language--grammar
+861,takri alphabet
+862,m.0290swf
+863,a comprehensive etymological dictionary of the hebrew language for readers of english
+864,m.0fxt53
+865,brahmi script
+866,urdu orthography
+867,"arabic, egyptian spoken grammar"
+868,m.047f4z
+869,konkanispeakers
+870,g.1256n672r
+871,tausug genesis translation
+872,m.0y1ms
+873,map of larger hebrew speaking communities around the world
+874,arabi malayalam
+875,g.125ch269_
+876,atlantic languages
+877,g.125h50tbp
+878,swahili (g.40) group
+879,libyan arabic extends from western egypt in the east to tunisia and algeria in the west.
+880,g.125ffnhgf
+881,konkani grammar
+882,vatteluttu alphabet
+883,riff group
+884,jakun language
+885,g.125fnc82s
+886,m.028f9f
+887,g.125bw8dcl
+888,sarikoli
+889,occitano-romance languages
+890,hebrew language chart
+891,g.1257q_tnt
+892,grammatica linguæ hebrææ
+893,map of the konkan 1740ad.
+894,hindustani group
+895,iranian languages area
+896,hausa phonology
+897,m.05rc0d
+898,m.02pxfk
+899,g.1256mrtck
+900,m.07gwd9
+901,m.02q_yff
+902,munde u.k. de
+903,arab world-large
+904,m.03dzl_4
+905,maranao detailed description
+906,bada dosth
